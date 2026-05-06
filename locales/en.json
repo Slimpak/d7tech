@@ -1,0 +1,296 @@
+{
+  "nav": {
+    "whatWeDo": "What We Do",
+    "solutions": "Solutions",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getInTouch": "Get in Touch"
+  },
+  "hero": {
+    "badge": "Ukraine-based · Global markets",
+    "h1_1": "Technology.",
+    "h1_2": "Products.",
+    "h1_3": "Impact.",
+    "subtitle": "DeltaSevenTech builds scalable digital systems, SaaS platforms, and AI-driven solutions for global markets.",
+    "cta1": "Start a conversation",
+    "cta2": "What we do"
+  },
+  "stats": {
+    "foundedLabel": "Founded",
+    "foundedValue": "2025",
+    "basedLabel": "Based",
+    "basedValue": "Ukraine",
+    "focusLabel": "Focus",
+    "focusValue": "Global markets"
+  },
+  "services": {
+    "label": "What We Do",
+    "heading": "Engineering-first approach to digital products",
+    "subtitle": "We combine product thinking, engineering, infrastructure, and AI to build digital systems that scale.",
+    "items": {
+      "softwareDev": {
+        "title": "Software Development",
+        "desc": "Custom web platforms, internal tools, and enterprise-grade applications built for performance and maintainability."
+      },
+      "saas": {
+        "title": "SaaS Platforms",
+        "desc": "Scalable subscription-based products, multi-tenant dashboards, and business systems designed to grow."
+      },
+      "data": {
+        "title": "Data & Infrastructure",
+        "desc": "Reliable APIs, databases, integrations, and cloud-ready architecture optimized for performance and cost."
+      },
+      "ai": {
+        "title": "AI & Automation",
+        "desc": "Workflow automation, AI-assisted products, and intelligent business tools that reduce overhead and accelerate decisions."
+      },
+      "design": {
+        "title": "Product Design",
+        "desc": "UX/UI design, design systems, product strategy, and user experience improvements grounded in data and best practices."
+      },
+      "consulting": {
+        "title": "Technical Consulting",
+        "desc": "Architecture reviews, technology audits, migration strategy, and hands-on guidance for engineering teams."
+      }
+    }
+  },
+  "work": {
+    "label": "Our Work",
+    "heading": "Selected projects",
+    "subtitle": "Selected platforms, products, and digital systems we've worked on.",
+    "viewProject": "View Project",
+    "comingSoon": "Coming soon",
+    "flagship": "Flagship Project",
+    "projects": {
+      "blueauditor": {
+        "name": "BlueAuditor",
+        "category": "ESG & Real Estate Intelligence Platform",
+        "desc": "Data-driven SaaS platform for ESG compliance, climate risk analysis, sustainability reporting, and real estate portfolio intelligence."
+      },
+      "memoryhive": {
+        "name": "MemoryHive",
+        "category": "Knowledge & Memory Platform",
+        "desc": "Intelligent workspace for structured knowledge management, contextual memory systems, and AI-assisted information retrieval."
+      },
+      "camporganizer": {
+        "name": "CampOrganizer",
+        "category": "Event & Camp Management Ecosystem",
+        "desc": "Digital ecosystem for camp operations, event coordination, family communication, and internal management workflows."
+      },
+      "deltaflow": {
+        "name": "DeltaFlow",
+        "category": "Automation & Internal Infrastructure",
+        "desc": "Internal automation systems and scalable infrastructure solutions designed to optimize business operations and workflows."
+      }
+    }
+  },
+  "solutions": {
+    "label": "Solutions",
+    "heading": "What we build",
+    "subtitle": "From internal tooling to client-facing platforms — complete digital solutions for international markets.",
+    "items": {
+      "internal": {
+        "title": "Internal Digital Products",
+        "desc": "Admin panels, dashboards, reporting systems, and productivity tools for internal operations at scale."
+      },
+      "client": {
+        "title": "Client Platforms",
+        "desc": "Customer-facing web applications, portals, marketplaces, and B2B platforms with robust user experiences."
+      },
+      "automation": {
+        "title": "Automation Systems",
+        "desc": "End-to-end process automation, event-driven workflows, and integrations that eliminate repetitive operations."
+      },
+      "data": {
+        "title": "Data-Driven Tools",
+        "desc": "Analytics platforms, data pipelines, visualization layers, and decision-support systems for business intelligence."
+      }
+    }
+  },
+  "about": {
+    "label": "About",
+    "heading": "Ukraine-based technology company with a global mindset.",
+    "text1": "Founded in 2025, DeltaSevenTech brings together engineering, product design, infrastructure, and automation expertise to create reliable digital products for international markets.",
+    "text2": "We work with startups, scale-ups, and enterprises to design and deliver systems that perform at scale — from early-stage MVPs to production platforms serving global audiences.",
+    "cta": "Learn more about us",
+    "values": {
+      "scalability": "Scalability",
+      "scalabilityDesc": "Systems built to grow without rewrites",
+      "reliability": "Reliability",
+      "reliabilityDesc": "Production-grade quality from day one",
+      "product": "Product Thinking",
+      "productDesc": "Engineering aligned with business outcomes",
+      "innovation": "Innovation",
+      "innovationDesc": "Staying ahead of technology trends"
+    }
+  },
+  "contact": {
+    "label": "Contact",
+    "heading": "Let's build something scalable.",
+    "subtitle": "Reach out for partnerships, investment inquiries, or to start building your next digital product.",
+    "cta": "Contact us",
+    "email": "contact@delta-seven.tech"
+  },
+  "contactForm": {
+    "title": "Start a conversation",
+    "subtitle": "Tell us about your project, partnership, or investment interest.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "John Smith",
+    "companyLabel": "Company / Organization",
+    "companyPlaceholder": "Acme Inc.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about your project, partnership, or investment interest...",
+    "submit": "Send Request",
+    "successTitle": "Thank you.",
+    "successText": "We'll contact you shortly.",
+    "errorName": "Full name is required",
+    "errorEmail": "Email is required",
+    "errorEmailInvalid": "Enter a valid email address",
+    "errorMessage": "Message is required"
+  },
+  "tech": {
+    "label": "Modern technology stack"
+  },
+  "location": {
+    "label": "Our Location",
+    "address1": "Sichovykh Striltsiv St, 9D",
+    "address2": "Dnipro, Ukraine",
+    "openMaps": "Open in Google Maps"
+  },
+  "footer": {
+    "description": "Ukraine-based technology company building scalable digital systems and AI-driven solutions for global markets.",
+    "copyright": "All rights reserved.",
+    "builtWith": "Built with Nuxt 3 & Tailwind CSS"
+  },
+  "pages": {
+    "about": {
+      "badge": "About the company",
+      "heading": "Ukraine-based technology company",
+      "headingAccent": "with a global mindset.",
+      "subtitle": "Founded in 2025, DeltaSevenTech brings together engineering, product design, infrastructure, and automation expertise to create reliable digital products for international markets.",
+      "valuesTitle": "Our values",
+      "missionLabel": "Who we are",
+      "missionHeading": "Engineering, product, design — in one team.",
+      "p1": "DeltaSevenTech is a technology company that designs and builds digital products, platforms, and infrastructure for global clients. We operate at the intersection of engineering depth and product clarity.",
+      "p2": "Our team combines expertise in full-stack development, cloud infrastructure, AI integration, and product design. We work with startups, scale-ups, and enterprises across industries.",
+      "p3": "Being based in Ukraine means resilience, determination, and a work ethic shaped by necessity. Our ambition is global — we build for international markets and operate on a world-class level.",
+      "statFounded": "Founded",
+      "statBased": "Based",
+      "statFocus": "Focus",
+      "statApproach": "Approach",
+      "statFoundedVal": "2025",
+      "statBasedVal": "Ukraine",
+      "statFocusVal": "Global markets",
+      "statApproachVal": "Engineering + Product"
+    },
+    "services": {
+      "badge": "Services",
+      "heading": "What we do",
+      "subtitle": "We combine product thinking, engineering, infrastructure, and AI to build digital systems that scale.",
+      "includes": "Includes",
+      "for": "For:",
+      "items": {
+        "softwareDev": {
+          "title": "Software Development",
+          "desc": "Custom web platforms, internal tools, and enterprise-grade applications built for performance and maintainability.",
+          "includes": ["Full-stack web applications", "Internal business tools", "API development & integrations", "Legacy system modernization"],
+          "forWhom": "Startups, scale-ups, and enterprises needing reliable custom software."
+        },
+        "saas": {
+          "title": "SaaS Platforms",
+          "desc": "Scalable subscription-based products, multi-tenant dashboards, and business systems designed to grow.",
+          "includes": ["Multi-tenant architecture", "Subscription & billing systems", "Admin & user dashboards", "Onboarding & lifecycle flows"],
+          "forWhom": "Founders and product teams launching or scaling SaaS products."
+        },
+        "data": {
+          "title": "Data & Infrastructure",
+          "desc": "Reliable APIs, databases, integrations, and cloud-ready architecture optimized for performance and cost.",
+          "includes": ["Cloud architecture (AWS, GCP)", "Database design & optimization", "API design & documentation", "CI/CD pipelines & DevOps"],
+          "forWhom": "Companies with growing technical needs or scaling infrastructure challenges."
+        },
+        "ai": {
+          "title": "AI & Automation",
+          "desc": "Workflow automation, AI-assisted products, and intelligent business tools that reduce overhead.",
+          "includes": ["LLM-powered product features", "Process & workflow automation", "Data extraction & enrichment", "Custom AI integrations"],
+          "forWhom": "Businesses looking to automate operations or build AI-enhanced products."
+        },
+        "design": {
+          "title": "Product Design",
+          "desc": "UX/UI design, design systems, product strategy, and user experience grounded in data and best practices.",
+          "includes": ["UX research & wireframing", "UI design & design systems", "Prototyping & user testing", "Product strategy consulting"],
+          "forWhom": "Teams that need design to match engineering — cohesive and scalable."
+        },
+        "consulting": {
+          "title": "Technical Consulting",
+          "desc": "Architecture reviews, technology audits, migration strategy, and hands-on guidance for engineering teams.",
+          "includes": ["Architecture & code review", "Technology selection", "Team mentoring & processes", "Migration & scaling strategy"],
+          "forWhom": "CTOs, engineering leads, and founders navigating technical decisions."
+        }
+      }
+    },
+    "solutions": {
+      "badge": "Solutions",
+      "heading": "What we build",
+      "subtitle": "From internal tooling to client-facing platforms — complete digital solutions for international markets.",
+      "items": [
+        {
+          "tag": "01",
+          "title": "Internal Digital Products",
+          "desc": "Admin panels, dashboards, reporting systems, and productivity tools for internal operations at scale. We help companies replace fragmented spreadsheets and legacy tools with cohesive internal platforms.",
+          "tags": ["Dashboard", "Admin", "Reporting", "Automation"]
+        },
+        {
+          "tag": "02",
+          "title": "Client Platforms",
+          "desc": "Customer-facing web applications, portals, marketplaces, and B2B platforms with robust user experiences. Designed for performance and retention across global audiences.",
+          "tags": ["B2B", "Portal", "Marketplace", "SaaS"]
+        },
+        {
+          "tag": "03",
+          "title": "Automation Systems",
+          "desc": "End-to-end process automation, event-driven workflows, and integrations that eliminate repetitive operations. We connect tools, systems, and data flows to reduce human overhead.",
+          "tags": ["Workflows", "Integrations", "ETL", "Events"]
+        },
+        {
+          "tag": "04",
+          "title": "Data-Driven Tools",
+          "desc": "Analytics platforms, data pipelines, visualization layers, and decision-support systems for business intelligence. Turn raw data into actionable insight.",
+          "tags": ["Analytics", "BI", "Pipelines", "Visualization"]
+        },
+        {
+          "tag": "05",
+          "title": "R&D Experiments",
+          "desc": "Rapid prototyping, technology validation, AI experiments, and proof-of-concept builds for companies exploring new product directions or validating technical feasibility.",
+          "tags": ["Prototyping", "AI", "PoC", "Innovation"]
+        }
+      ]
+    },
+    "contact": {
+      "badge": "Contact",
+      "heading": "Let's build something",
+      "headingAccent": "scalable.",
+      "subtitle": "Reach out for product development, partnerships, or investment inquiries. We respond within 24 hours.",
+      "emailLabel": "Email",
+      "locationLabel": "Location",
+      "locationValue": "Ukraine · Remote worldwide",
+      "formTitle": "Send a request",
+      "formSubtitle": "For partnerships, investments, or product development inquiries."
+    },
+    "blog": {
+      "badge": "Blog",
+      "heading": "Insights & perspectives",
+      "subtitle": "Technology, product, infrastructure, and AI — from the DeltaSevenTech team.",
+      "readArticle": "Read article",
+      "noPosts": "No posts yet.",
+      "backToBlog": "Back to Blog"
+    }
+  },
+  "error": {
+    "title": "Page not found",
+    "subtitle": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to Home"
+  }
+}
