@@ -140,7 +140,7 @@
     "companyLabel": "Компанія / Організація",
     "companyPlaceholder": "Acme Inc.",
     "emailLabel": "Email",
-    "emailPlaceholder": "you@company.com",
+    "emailPlaceholder": "you{'@'}company.com",
     "messageLabel": "Повідомлення",
     "messagePlaceholder": "Розкажіть про ваш проект, партнерство або інвестиційний інтерес...",
     "submit": "Надіслати запит",

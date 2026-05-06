@@ -140,7 +140,7 @@
     "companyLabel": "Company / Organization",
     "companyPlaceholder": "Acme Inc.",
     "emailLabel": "Email",
-    "emailPlaceholder": "you@company.com",
+    "emailPlaceholder": "you{'@'}company.com",
     "messageLabel": "Message",
     "messagePlaceholder": "Tell us about your project, partnership, or investment interest...",
     "submit": "Send Request",
